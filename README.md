@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YangYang-Shao&theme=dracula" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=YangYang-Shao&theme=dracula&locale=es" alt="GitHub Streak" />
 </p>
 
 
