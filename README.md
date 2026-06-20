@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=8DBDFF&center=true&vCenter=true&width=750&height=60&lines=Bonjour%2C+bienvenue+dans+l%27univers+du+code+de+Yang" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&color=F7536E&center=true&vCenter=true&repeat=false&width=700&lines=Bonjour%2C+bienvenue+dans+l'univers+du+code+de+Yang" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
