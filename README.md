@@ -10,15 +10,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YangYang-Shao&theme=rose" width="800" alt="Activity Graph" />
 </p>
-
-This is Yang's code space
-
-Yang is on vacation these days
-
-Yang is going to Monaco today
-
-Tomorrow I will be home #bonjour#
-
-going back to home today
-
-finally. have had enough 
