@@ -11,6 +11,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YangYang-Shao&theme=rose" width="800" alt="Activity Graph" />
 </p>
 
-first day in paris
-second day in paris
-the third day was a drama
