@@ -5,9 +5,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=YangYang-Shao&theme=dracula&locale=es" alt="GitHub Streak" />
 </p>
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YangYang-Shao&theme=rose" width="800" alt="Activity Graph" />
-</p>
-
